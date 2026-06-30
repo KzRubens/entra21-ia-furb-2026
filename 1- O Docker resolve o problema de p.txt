@@ -1,0 +1,13 @@
+1- O Docker resolve o problema de programas funcionarem em um computador e em outro não, ele deixa o mesmo ambiente para todo mundo.
+
+2- A máquina virtual é mais pesada porque tem um sistema operacional inteiro, o container é mais leve e usa o sistema do computador.
+
+3- É criar uma imagem com tudo para o programa funcionar.
+
+4- Porque é mais rápido, organizado e facilita colocar os programas para funcionar em qualquer lugar.(gpt)
+
+5- Eu usaria em um site, uma API, um banco de dados ou um sistema de vendas. (gpt)
+
+6- Porque as tags mostram a versão da imagem e escolher a errada pode dar erro. (gpt)
+
+7- Eu diria que o Docker facilita o trabalho, porque você configura uma vez só e o programa funciona igual em todos os computadores
